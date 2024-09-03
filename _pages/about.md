@@ -9,7 +9,8 @@ redirect_from:
 
 About Me
 =====
-I am a first-year PhD student in Computer Science at Georgia Tech, beginning my studies in 2024 under the supervision of Prof. Vijay Ganesh. Before PhD, I completed my bachelor's degree at Chu Kochen Honors College of Zhejiang University. 
+
+I am a first-year PhD student in Computer Science at Georgia Tech, having started my studies in 2024. I am fortunate to be supervised by Prof. [Vijay Ganesh](https://vganesh1.github.io). Before pursuing my PhD, I completed my bachelor's degree at Chu Kochen Honors College of Zhejiang University. During my undergraduate studies, I also had the opportunity to work with Prof. [Huajie Shao](https://shj1987.github.io), who provided me with significant assistance.
 
 My research interest lie in developing logical machine learning tools to advance scientific discovery.
 
