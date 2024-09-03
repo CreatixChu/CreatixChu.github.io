@@ -1,3 +1,4 @@
 # Creatix's PhD Homepage
 
-Modified from https://github.com/academicpages/academicpages.github.io
+View the page: https://CreatixChu.github.io
+Modified from: https://github.com/academicpages/academicpages.github.io

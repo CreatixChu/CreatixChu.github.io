@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "About Me | Creatix Chu"
 title_separator          : "-"
 name                     : &name "Creatix"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : https://creatixchu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "creatixchu/creatixchu.github.io"
@@ -22,13 +22,13 @@ repository               : "creatixchu/creatixchu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Creatix Chu (Xieting Chu / 褚写庭)"
+  name             : "Xieting Chu | Creatix"
   pronouns         : # "he/his"  
-  bio              : "PhD student in "
+  bio              : "PhD Student"
   location         : "Atlanta, Georgia"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "creatixchu at gatech dot edu" 
+  email            : "creatixchu@gatech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/CreatixChu"
+  github           : "CreatixChu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
