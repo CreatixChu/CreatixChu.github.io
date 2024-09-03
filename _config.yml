@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About Me | Creatix Chu"
+title                    : "About | Creatix Chu"
 title_separator          : "-"
 name                     : &name "Creatix"
 description              : &description "PhD Student"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xieting Chu | Creatix"
   pronouns         : # "he/his"  
-  bio              : "PhD Student in Computer Science | Interested in developing logical AI to help scientific discovery | Chinese name "褚写庭""
+  bio              : "PhD Student in Computer Science | Interested in developing logical AI to help scientific discovery"
   location         : "Atlanta, Georgia"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
