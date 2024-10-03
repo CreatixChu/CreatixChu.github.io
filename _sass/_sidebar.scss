@@ -80,8 +80,6 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  border-radius: 50%; /* Ensuring the avatar has rounded edges */
-  overflow: hidden; /* Ensuring that non-square images don’t overflow */
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for a more fashionable look */
 
   // Set width only, for non-square avatars
@@ -103,7 +101,7 @@
     
     /* Add a hover effect for a fashionable, dynamic feel */
     &:hover {
-      transform: scale(1.05); /* Slight zoom effect */
+      transform: scale(1.1); /* Slight zoom effect */
       box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); /* Enhance the shadow on hover */
     }
   }
