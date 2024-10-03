@@ -60,8 +60,17 @@
   justify-content: space-between;
   width: 100%;
 
-  .last-update {
-    margin-left: auto;
+  .footer-left {
+    text-align: left;  /* 确保左侧内容靠左对齐 */
+    display: flex;      /* 保持灵活布局 */
+    align-items: center; /* 垂直居中内容 */
+    padding: 0.5em 0;   /* 添加一些上下间距 */
+  }
+
+  .footer-right {
+    margin-left: auto;  /* 使右侧内容靠右 */
+    text-align: right;
+    padding: 0.5em 0;   /* 添加一些上下间距 */
   }
 }
 
