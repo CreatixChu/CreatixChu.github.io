@@ -19,4 +19,7 @@
 </div>
 {% endif %} -->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Last Update: {{ site.time | date: '%Y-%m-%d' }}.</div>
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+  <span class="last-update">Last Update: {{ site.time | date: '%Y-%m-%d' }}.</span>
+</div>
