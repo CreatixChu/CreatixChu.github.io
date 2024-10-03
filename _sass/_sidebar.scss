@@ -80,9 +80,10 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for a more fashionable look */
+  // set width only, for non-square avatars
+  // height: 36px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 
-  // Set width only, for non-square avatars
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -91,15 +92,13 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%; /* Keeps the image circular */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover animation */
-    
+    border-radius: 50%;
+
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color; /* Adding a border on larger screens */
+      border: 1px solid $border-color;
     }
-    
-    /* Add a hover effect for a fashionable, dynamic feel */
+
     &:hover {
       transform: scale(1.1); /* Slight zoom effect */
       box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); /* Enhance the shadow on hover */
